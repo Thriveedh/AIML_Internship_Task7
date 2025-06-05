@@ -1,7 +1,7 @@
 # AIML_Internship_Task7
 # Breast Cancer Classification using SVM
 
-This task demonstrates binary classification on the Breast Cancer dataset from Kaggle using Support Vector Machines (SVM) with both **linear** and **RBF kernels**
+This task demonstrates binary classification on the Breast Cancer dataset from Kaggle using Support Vector Machines (SVM) with both **linear** and **RBF kernels**.
 
 ## Preprocessing
 
@@ -33,8 +33,8 @@ For each combination, we trained the model and calculated accuracy on the test s
   - `ListedColormap(['blue', 'red'])` to map:
     - Class 0 → Blue
     - Class 1 → Red
-- **Legend** added using `plt.legend()` to label each class
+- **Legend** added using `plt.legend()` to label each class.
 
 ## Cross-Validation
 
-Performed manual cross-validation using `cross_val_score`
+Performed manual cross-validation using `cross_val_score`.
