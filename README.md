@@ -33,7 +33,6 @@ For each combination, we trained the model and calculated accuracy on the test s
   - `ListedColormap(['blue', 'red'])` to map:
     - Class 0 → Blue
     - Class 1 → Red
-- **Legend** added using `plt.legend()` to label each class.
 
 ## Cross-Validation
 
